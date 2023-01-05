@@ -13,6 +13,7 @@ function Checkout() {
         />
         <div>
           <h2 className='checkout_title'>Your shoping Basket</h2>
+          {/* {basketiteam} */}
         </div>
       </div>
 
